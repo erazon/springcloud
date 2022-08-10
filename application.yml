@@ -1,1 +1,6 @@
 message: Hello World
+logging:
+  level:
+    root: ERROR
+  org:
+    springframework: ERROR
